@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "Magui-97",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269228378?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "Magui-97",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-18T15:54:33.646Z",
-    "updated_at": "2026-03-18T15:54:33.646Z"
-  }
+    "updated_at": "2026-03-18T15:54:33.646Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "0c76a350-2769-4fd3-83c9-3b7dcdc2b4b1": {
+      "content": [],
+      "created_at": "2026-03-18T15:54:33.650Z",
+      "created_by": "Magui-97",
+      "title": "Taller Usal ",
+      "updated_at": "2026-03-18T15:54:33.650Z",
+      "updated_by": "Magui-97",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "0c76a350-2769-4fd3-83c9-3b7dcdc2b4b1"
+  ]
 }
