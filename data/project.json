@@ -22,13 +22,19 @@
     "authors": "Magdalena-Sofia",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "llilasbenson",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26462551?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [],
       "tags": []
     },
     "created_at": "2026-03-18T15:54:33.646Z",
-    "updated_at": "2026-03-18T16:02:42.943Z",
+    "updated_at": "2026-03-18T16:13:16.590Z",
     "generate_pages_site": true
   },
   "annotations": {},
